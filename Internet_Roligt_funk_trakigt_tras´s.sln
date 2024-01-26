@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internet_Roligt_funk_trakigt_tras´s", "Internet_Roligt_funk_trakigt_tras´s\Internet_Roligt_funk_trakigt_tras´s.csproj", "{69B15AD1-D668-4489-BB69-74829F874B28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69B15AD1-D668-4489-BB69-74829F874B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B15AD1-D668-4489-BB69-74829F874B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B15AD1-D668-4489-BB69-74829F874B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B15AD1-D668-4489-BB69-74829F874B28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
